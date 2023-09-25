@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  layotto-sidecar-injector:
+  - apiVersion: v2
+    appVersion: 0.5.0
+    created: "2023-09-25T16:09:26.234396+08:00"
+    description: A Helm chart for Layotto Kubernetes
+    digest: 96e48daa1decdf05c29576125d9ad3a4e30980b6944ddcbe02307f259dada18b
+    name: layotto-sidecar-injector
+    urls:
+    - layotto-sidecar-injector-0.5.0.tgz
+    version: 0.5.0
+generated: "2023-09-25T16:09:26.23287+08:00"
